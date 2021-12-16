@@ -1,0 +1,28 @@
+import java.util.Scanner;
+public class Ex2 {
+	public static void main(String[]args){
+	
+	Scanner sc= new Scanner (System.in);
+	
+	System.out.println("Please enter day you want to come to school");
+	int day = sc.nextInt();
+	Switch(day){
+	case 1:
+	System.out.println("The day is a Monday");
+	break;
+	case 2:
+	System.out.println("The day is a Tuesday");
+	break;
+	case 3:
+	System.out.println("The day is a Wednesday");
+	break;
+	case 4:
+	System.out.println(
+	
+	
+	
+	
+	
+	
+	}}
+		
